@@ -14,7 +14,7 @@ Self-motivated 15-year-old high school student deeply passionate about programmi
 ## 🛠 Skills
 
 - **Programming Languages**: Python (intermediate to advanced)
-- **Software & Tools**: Git, GitHub, Linux (Ubuntu), VS Code, Pylint, Pytest
+- **Software & Tools**: Git, GitHub, Linux (Ubuntu), VS Code, Pylint, scikit-learn, Pandas, Numpy, seaborn, matplotlib
 - **Concepts**: Object-Oriented Programming, Unit Testing, CLI Applications
 - **AI & Data**: Basic Machine Learning knowledge, early-stage Data Science exploration
 - **Soft Skills**: Teamwork, Self-Learning, Problem Solving, Growth Mindset
