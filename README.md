@@ -1,4 +1,4 @@
-💼 Mani [Your Last Name]
+💼 Mani Obara
 📍 Tehran, Iran
 📧 Email : Mani.Obara.Work@gmail.com
 
